@@ -1,4 +1,4 @@
-# Reinforcenment Leaning for Tic Tac Toe game implemented in Rust.
+# Reinforcement Learning for Tic Tac Toe game implemented in Rust.
 
 ## Run
 
